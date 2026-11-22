@@ -1,0 +1,9 @@
+numpy
+scipy
+librosa
+soundfile
+opencv-python-headless
+streamlit
+matplotlib
+# optional (speech signal). Needs PyTorch; first run downloads the model from the internet:
+# openai-whisper
